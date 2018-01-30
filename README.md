@@ -1,6 +1,10 @@
 # Sketches
 A catalog for my processing sketches
 
+## Catalog
+
+  1. [Cube](https://github.com/Syntox32/Sketches/tree/master/cube)
+
 # Image sequence to video
 
 This FFmpeg command takes an image sequence, couples it with audio, and creates a `.mp4`. The pixel format and audio codec has been tested, and works for uploading videos to Instagram.
